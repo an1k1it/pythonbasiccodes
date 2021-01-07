@@ -1,4 +1,4 @@
-'''Objective : '''
+'''Objective : Converting anybase number to Decimal Number '''
 
 def con(num_str,base,power): #function for converting any base to decimal
     num_str = num_str[::-1] #reversing the string 
@@ -64,3 +64,5 @@ def main():#menu
      
 if __name__ == '__main__':
     main()
+    
+#The code is Contributed by Ankit
